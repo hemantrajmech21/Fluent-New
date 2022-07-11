@@ -44,8 +44,5 @@ public void BuyStock() throws EncryptedDocumentException, IOException, Interrupt
 public void SCReenShot() throws IOException {
 	ScreenShot.takeScreenshot(driver, "Zerodha");
 }
-@Test
-public void Pritam() {
-	
-}
+
 }
